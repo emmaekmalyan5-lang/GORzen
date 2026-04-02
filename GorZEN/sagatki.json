@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Какой префикс используется в Tailwind CSS для создания адаптивности под планшеты (от 768px)?",
+    "options": ["sm:", "md:", "lg:", "xl:"],
+    "correct": 80,
+    "time": 10
+  },
+  {
+    "question": "Как добавить внутренний отступ (padding) со всех сторон величиной 1rem (16px)?",
+    "options": ["m-4", "p-1", "p-4", "padding-16"],
+    "correct": 2,
+    "time": 10
+  },
+  {
+    "question": "Какой класс делает элемент гибким контейнером (Flexbox)?",
+    "options": ["display-flex", "flexbox", "flex", "container-flex"],
+    "correct": 2,
+    "time": 20
+  },
+  {
+    "question": "Как установить цвет текста на красный с насыщенностью 500?",
+    "options": ["text-red-500", "color-red-500", "bg-red-500", "font-red-500"],
+    "correct": 0,
+    "time": 10
+  },
+  {
+    "question": "Какой класс используется для скругления углов элемента (border-radius)?",
+    "options": ["radius-lg", "rounded-lg", "circle", "border-round"],
+    "correct": 1,
+    "time": 30
+  },
+  {
+    "question": "Как отцентрировать flex-элементы по горизонтали в контейнере?",
+    "options": ["items-center", "content-center", "justify-center", "self-center"],
+    "correct": 2,
+    "time": 30
+  },
+  {
+    "question": "Какой класс задает ширину элемента на 50% от родителя?",
+    "options": ["w-1/2", "width-50", "w-half", "w-2/4"],
+    "correct": 0,
+    "time": 20
+  },
+  {
+    "question": "Как скрыть элемент на мобильных устройствах, но показать на десктопе?",
+    "options": ["invisible md:visible", "hidden md:block", "md:hidden", "opacity-0 md:opacity-100"],
+    "correct": 1,
+    "time": 20
+  },
+  {
+    "question": "Какой класс используется для создания сетки (Grid) из 3 колонок?",
+    "options": ["grid-cols-3", "display-grid-3", "columns-3", "grid-3"],
+    "correct": 0,
+    "time": 20
+  },
+  {
+    "question": "Как изменить цвет фона при наведении курсора (hover)?",
+    "options": ["on-hover:bg-blue-500", "hover-bg-blue-500", "hover:bg-blue-500", "mouse:bg-blue-500"],
+    "correct": 2,
+    "time": 20
+  }
+]
